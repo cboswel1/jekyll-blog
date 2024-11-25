@@ -8,6 +8,9 @@ name: Jekyll Blog
 # Short bio or description (displayed in the header)
 description: Blog Demo
 
+baseurl: /
+url: https://cboswel1.github.io
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
@@ -15,8 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: /jekyll-blog/
-url: http://cboswel1.github.io
+
 
 #
 # Flags below are optional
