@@ -67,7 +67,7 @@
 <script>
   document.getElementById('search-bar').addEventListener('input', function () {
     const query = this.value.toLowerCase();
-    fetch('/search.json')
+    fetch('{{ site.baseurl }}/search.json')
       .then(response => response.json())
       .then(data => {
         const results = data.filter(post =>
