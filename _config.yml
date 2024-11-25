@@ -9,7 +9,7 @@ name: Jekyll Blog
 description: Blog Demo
 
 baseurl: /
-url: http://cboswel1.github.io
+url: https://cboswel1.github.io
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
